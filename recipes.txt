@@ -3,6 +3,7 @@ kottu
 friedrice 
 coke
 
+
 apple
 orange
 
@@ -10,4 +11,8 @@ Thankyou.
 done.
 
 
+
+
+Thankyou
+finished
 
